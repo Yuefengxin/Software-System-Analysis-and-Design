@@ -18,10 +18,10 @@
 * 由于软件本身的复杂性、不可见性、不一致性、可变性，软件范围多数情况下对于客户和开发者都是模糊的，这形成软件产品与其他产品不同的开发过程。因此，范围管理是软件项目管理的重中之重。
 ## 2、项目管理实践
 ### （1）看板使用练习
-![看板](https://github.com/Yuefengxin/Software-System-Analysis-and-Design/blob/master/Homework2/%E7%9C%8B%E6%9D%BF.PNG)  
+![看板](https://github.com/Yuefengxin/Software-System-Analysis-and-Design/blob/master/Homework2/kanban.PNG)  
 ### （2）UML绘图工具练习
 * 教材第七页的骰子游戏局部设计类图  
-![类图](https://github.com/Yuefengxin/Software-System-Analysis-and-Design/blob/master/Homework2/%E7%B1%BB%E5%9B%BE.PNG)  
+![类图](https://github.com/Yuefengxin/Software-System-Analysis-and-Design/blob/master/Homework2/pic.PNG)  
 * 代码如下
 ```
 DiceGame 
